@@ -1,0 +1,11 @@
+UserID,Page,PageViews,SessionDuration,Bounce,NextPage
+1,Home,5,300,No,Products
+2,Products,8,420,No,Pricing
+3,Pricing,4,250,No,Contact
+4,Contact,1,60,Yes,Exit
+5,Home,6,350,No,About
+6,About,3,200,No,Blog
+7,Blog,2,150,Yes,Exit
+8,Products,10,500,No,Pricing
+9,Pricing,5,280,No,Contact
+10,Contact,1,40,Yes,Exit
